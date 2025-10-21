@@ -12,7 +12,7 @@ package main
 import (
 	"fmt"
 
-	"chat/internal/network/server"
+	"github.com/Ryanjones0911/chat/internal/network/server"
 )
 
 func main() {

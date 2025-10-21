@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"chat/internal/network/client"
+	"github.com/Ryanjones0911/chat/internal/network/client"
 )
 
 func main() {
