@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello client")
+	fmt.Println("Hello from client")
 	client.Init()
 }
