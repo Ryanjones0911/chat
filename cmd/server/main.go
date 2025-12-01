@@ -17,5 +17,7 @@ import (
 
 func main() {
 	fmt.Println("Helllo from server")
-	server.Init()
+
+	portNum := ":9000"
+	server.StartServer(portNum)
 }
